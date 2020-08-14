@@ -1,0 +1,15 @@
+OBJECT_SHARED Models/Airport/marker.ac 118.065697 24.492497 0 180
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_gold.xml 118.0868936 24.4643302 17.72 0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_gold.xml 118.0874404 24.4616723 13.32 312
+OBJECT_SHARED Models/Commercial/tower-blue-white.ac 118.0836088 24.4593212 17.83 0
+OBJECT_SHARED Models/Commercial/tower-glass-dark-blue.ac 118.082368 24.4589462 23.86 0
+OBJECT_SHARED Models/Commercial/tower-grey-black.ac 118.0816554 24.4553187 27.54 0
+OBJECT_SHARED Models/Commercial/tower-h-striped.ac 118.0828285 24.4605479 16.73 0
+OBJECT_SHARED Models/Commercial/tower-square-dark.ac 118.0785483 24.4611674 17.22 0
+OBJECT_SHARED Models/Commercial/tower-square-dark.ac 118.0812798 24.4618037 17.32 0
+OBJECT_SHARED Models/Commercial/tower-striped-black-white.ac 118.0757628 24.4605383 15.86 0
+OBJECT_SHARED Models/Commercial/tower-striped-black-white.ac 118.077922 24.4581241 15.85 0
+OBJECT_SHARED Models/Commercial/tower-striped-black-white.ac 118.0899755 24.4658167 12.65 0
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 118.068 24.4517 -0.01 45.57
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 118.07 24.45 -0.01 354.22
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 118.072 24.4983 0 29.58
